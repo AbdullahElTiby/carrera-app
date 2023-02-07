@@ -1,0 +1,1 @@
+class Sliderrectanglesixteen1ItemModel {}
